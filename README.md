@@ -5,4 +5,8 @@ La principal intención detrás de estos es aprender tanto los fundamentos teór
 
 ### [NLP desde cero. Construyendo un modelo clásico sin librerías](https://github.com/anava122002/YouTube-video-impact-classification)
 
-Los transformers son esenciales para el procesamiento del lenguaje natural y, por tanto, es también necesario para cualquiera que quiera usarlos el conocer en profundidad su arquitectura y función. Aunque construir uno desde cero es muy ambicioso, en este proyecto pretendo al menos explorar sus fundamentos teóricos y ponerme a prueba intentando traducirlos a código.
+Los clasificadores de texto son esenciales para el procesamiento del lenguaje natural y, por tanto, es también esencial para cualquiera que quiera usarlos el conocer en profundidad su arquitectura y función. Aunque construir uno desde cero es muy ambicioso, en este proyecto pretendo al menos explorar sus fundamentos teóricos y ponerme a prueba intentando traducirlos en código.
+
+### [Modelos de Clasificación de Lenguaje con Scikit-Learn](https://github.com/anava122002/YouTube-video-impact-classification-II)
+
+Tras entender como funcionan los clasificadores de texto y, concretamente, aquellos basados en Naive Bayes, en este proyecto pretendo dar un paso más. En este repositorio se implementan, evalúan y comparan los modelos Naive Bayes (MultinomialNB y ComplementNB) con otros basados en Regresión Logística (LogisticRegression), Regresión Lineal (LinearSVC) y Random Forest (RandomForest). 
